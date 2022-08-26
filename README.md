@@ -16,7 +16,7 @@ CodeSignal é uma plataforma de gerenciamento de testes técnicos usados no proc
 
 # Webflow - Site da Empresa
 
-No Webflow estava hospedado o site qu coma landing page que desenvolvi para que os candidatos fizessem o cadastro. Então integrei o site da empresa que mandava todas as informações coletadas no formulário de cadastro para o RDStation e para o LogicApps que manda pro Salesforce. Eu tomei a decisão de não excluir o fluxo de persistencia de dados das plataformas originais, pois caso algo desse errado, sempre teriamos o backup dos dados nas plataformas originais.
+No Webflow estava hospedado o site com a landing page que desenvolvi para que os candidatos fizessem o cadastro. Então integrei o site da empresa que mandava todas as informações coletadas no formulário de cadastro para o RDStation e para o LogicApps que manda pro Salesforce. Eu tomei a decisão de não excluir o fluxo de persistencia de dados das plataformas originais, pois caso algo desse errado, sempre teriamos o backup dos dados nas plataformas originais.
 
 # RdStation
 
