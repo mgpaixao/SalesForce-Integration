@@ -7,7 +7,7 @@ Na primeira parte do projeto, integrei o site e o sistema de testes técnicos (C
 Veja abaixo o fluxo das informações.
 
 
-![SalesForce Integrations@2x](https://user-images.githubusercontent.com/63682265/185831033-af4d6042-011b-4807-8302-f2d75c60b646.png)
+![SalesForce Integrations (copy)@2x](https://user-images.githubusercontent.com/63682265/186912356-37a0a919-f154-42a6-a0f4-275b6df1d2bd.png)
 
 
 # CodeSignal
