@@ -28,3 +28,14 @@ O LogicApps é um IPaas (Integration Plataform as a Service) que escolhi para fa
 
 ![Animação](https://user-images.githubusercontent.com/63682265/185838658-5cc2411d-7f6d-4c83-9ba5-b5bd679b137b.gif)
 
+# Segunda Parte do Projeto.
+
+Na segunda parte do projeto, eu coloquei varios objetos completamente customizados e criei uma base de dados para se adaptar a necessidade da plataforma que estavamos desenvolvendo para administração das turmas e para os alunos acompanharem seu processo ali dentro. O Salesforce seria o banco de dados principal. Abaixo segue o diagrama UML do Banco de dados.
+
+![SalesForce Object Relations](https://user-images.githubusercontent.com/63682265/186916358-e5711e3a-485d-4c43-b83a-f9f5f89315ce.jpg)
+
+
+
+
+
+
